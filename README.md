@@ -2,8 +2,7 @@
 - 🧑‍💻 Nuwbie App Developer
 - 🌀 C/C++
 
-Favourite Linux:
-[![Arch](https://skillicons.dev/icons?i=arch&theme=light)](https://skillicons.dev)
+[![Arch](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 
 <!---
 ellenoireQ/ellenoireQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

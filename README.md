@@ -2,7 +2,7 @@
 - 🧑‍💻 Nuwbie App Developer
 - 🌀 C/C++
 
-I use [![]](https://skillicons.dev/icons?i=arch&theme=light)](https://skillicons.dev)
+I use [![Arch](https://skillicons.dev/icons?i=arch&theme=light)](https://skillicons.dev)
 
 <!---
 ellenoireQ/ellenoireQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

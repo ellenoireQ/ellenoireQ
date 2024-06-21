@@ -2,7 +2,7 @@
 - 🧑‍💻 Nuwbie App Developer
 - 🌀 C/C++
 
-<div style="display: flex">
+<div style="display: flex;">
     <img width="100"  height="100" src="./profile.jpg" />
     <p><strong>OS:</strong></p>
 </div>

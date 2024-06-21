@@ -2,8 +2,9 @@
 - 🧑‍💻 Nuwbie App Developer
 - 🌀 C/C++
 
-<div>
+<div style="display: flex">
     <img width="100"  height="100" src="./profile.jpg" />
+    <p>Im currently Using </p>
 </div>
 
 [![Arch](https://skillicons.dev/icons?i=linux,arch,windows,c,cpp&theme=dark)](https://skillicons.dev)

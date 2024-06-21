@@ -2,7 +2,9 @@
 - 🧑‍💻 Nuwbie App Developer
 - 🌀 C/C++
 
-![ellenoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenoireQ&theme=dark&show_icons=true)
+<div>
+    <img src="./profile.jpg" />
+</div>
 
 [![Arch](https://skillicons.dev/icons?i=linux,arch,windows,c,cpp&theme=dark)](https://skillicons.dev)
 

@@ -4,10 +4,10 @@
 
 <div style="display: flex">
     <img width="100"  height="100" src="./profile.jpg" />
-    <p>Im currently Using </p>
+    <p><strong>Using OS:</strong></p>
 </div>
 
-[![Arch](https://skillicons.dev/icons?i=linux,arch,windows,c,cpp&theme=dark)](https://skillicons.dev)
+[![Arch](https://skillicons.dev/icons?i=linux,arch,windows&theme=dark)](https://skillicons.dev)
 
 <!---
 ellenoireQ/ellenoireQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

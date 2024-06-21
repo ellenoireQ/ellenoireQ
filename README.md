@@ -3,7 +3,7 @@
 - 🌀 C/C++
 
 <div>
-    <img style="./style.css" id="profile" src="./profile.jpg" />
+    <img width="20"  height="20" src="./profile.jpg" />
 </div>
 
 [![Arch](https://skillicons.dev/icons?i=linux,arch,windows,c,cpp&theme=dark)](https://skillicons.dev)

@@ -9,8 +9,9 @@
 
 [![os](https://skillicons.dev/icons?i=linux,arch,windows&theme=dark)](https://skillicons.dev)
 
-<p>Currently skill issue:</p>
-[![lang](https://skillicons.dev/icons?i=c,cpp&theme=dark)](https://skillicons.dev)
+
+[![os](https://skillicons.dev/icons?i=c,cpp&theme=dark)](https://skillicons.dev)
+
 <!---
 ellenoireQ/ellenoireQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

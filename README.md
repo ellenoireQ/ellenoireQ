@@ -2,8 +2,6 @@
 - 🧑‍💻 Nuwbie App Developer
 - 🌀 C/C++
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenoireQ&hide_progress=true)
-
 <div style="display: flex;">
     <img width="100"  height="100" src="./profile.jpg" />
     <p><strong>i-use-arch-btw</strong></p>

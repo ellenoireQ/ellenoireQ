@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @ellenoireQ
-- 🧑‍💻 Nuwbie App Developer
-- 🌀 C/C++
+- 🧑‍💻 UI/UX Developer
+- 🌟 dream about Full Stack Developer
 
-<div style="display: flex;">
+    <!-- func -->
     <img width="100"  height="100" src="./profile.jpg" />
     <p><strong>absolutely using</strong></p>
-</div>
 
-[![os](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
+    [![os](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
 
 
 <!---

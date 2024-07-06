@@ -3,8 +3,10 @@
 - 🌟 dream about Full Stack Developer
 
     <!-- func -->
+  <div>
     <img width="100"  height="100" src="./profile.jpg" />
     <p><strong>absolutely using</strong></p>
+  </div>
 
     [![os](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
 

@@ -4,10 +4,10 @@
 
 <div style="display: flex;">
     <img width="100"  height="100" src="./profile.jpg" />
-    <p><strong>i-use-arch-btw</strong></p>
+    <p><strong>absolutely using</strong></p>
 </div>
 
-[![os](https://skillicons.dev/icons?i=linux,arch,windows&theme=dark)](https://skillicons.dev)
+[![os](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
 
 
 <!---
